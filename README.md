@@ -1,5 +1,6 @@
 # Data Science - Santander Coders 2024
-Fui elecionada para o programa Curso Santander | Santander Coders 2024 em parceria com a Ada Tech
+Fui selecionada para o curso Santander Coders 2024, promovido pela Santander Open Academy! <br>
+Trilha escolhida: Data Science
 
 ## Modulos
 **1. Introdução** <br>
