@@ -3,10 +3,10 @@ Fui selecionada para o curso Santander Coders 2024, promovido pela Santander Ope
 Trilha escolhida: Data Science
 
 ## Modulos
-**1. Introdução** ✅<br>
+**1. Introdução a Data Science** ✅<br>
 [Buscar correlações](/01-introducao/BuscandoCorrelacoes.ipynb) <br>
-[Prever valores com Regressão Linear](/01-introducao/IntroducaoMachineLearning_1.ipynb) <br>
-[Identificar doenças a partir de dados de exames com Regressão Logística](/01-introducao/IntroducaoMachineLearning_2.ipynb)
+[Machine Learning: Prever valores com Regressão Linear](/01-introducao/IntroducaoMachineLearning_1.ipynb) <br>
+[Machine Learning: Identificar doenças a partir de dados de exames com Regressão Logística](/01-introducao/IntroducaoMachineLearning_2.ipynb)
 
 **2. Git e Versionamento** ✅ <br>
 Repósitorios <br>
@@ -14,6 +14,11 @@ Comandos <br>
 Branches
 
 **3. Estatística** <br>
+Visualização gráfica <br>
+Medidas de posição e medidas de dispersão <br>
+Análise bidimensional <br>
+Regressão linear simples <br>
+Probabilidade <br>
 
 **4. Python** <br>
 
