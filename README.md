@@ -13,7 +13,7 @@ Repósitorios <br>
 Comandos <br>
 Branches
 
-**3. Estatística** <br>
+**3. Estatística** ✅ <br>
 Visualização gráfica <br>
 Medidas de posição e medidas de dispersão <br>
 Análise bidimensional <br>
