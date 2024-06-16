@@ -4,7 +4,9 @@ Trilha escolhida: Data Science
 
 ## Modulos
 **1. Introdução a Data Science** <br>
-[Buscar correlações](/01-introducao/BuscandoCorrelacoes.ipynb) <br>
+[Numpy: Criar Máscaras](/01-introducao/MascarasNumPy.ipynb) <br>
+[Pandas: DataFrames](/01-introducao/PandasDataFrames.ipynb) <br>
+[Seaborn: Buscar Correlações](/01-introducao/BuscandoCorrelacoes.ipynb) <br>
 [Machine Learning: Prever valores com Regressão Linear](/01-introducao/IntroducaoMachineLearning_1.ipynb) <br>
 [Machine Learning: Identificar doenças a partir de dados de exames com Regressão Logística](/01-introducao/IntroducaoMachineLearning_2.ipynb)
 
