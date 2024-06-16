@@ -23,4 +23,6 @@ Probabilidade <br>
 **4. Python** <br>
 
 **5. Álgebra Linear** <br>
-[Matrizes](/05-algebra-linear/matrizes_especiais.ipynb) 
+[Matrizes](/05-algebra-linear/matrizes_especiais.ipynb) <br>
+[Sistemas Lineares](/05-algebra-linear/sistemaslineares.ipynb) <br>
+[Transformações Lineares](/05-algebra-linear/transformacoeslineares.ipynb)
